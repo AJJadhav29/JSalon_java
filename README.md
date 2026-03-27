@@ -40,5 +40,3 @@ make payment, and receive a confirmed booking — all saved to a local file.
 | Regex | Email format validation |
 
 ---
-
-## 🗂️ Project Structure
